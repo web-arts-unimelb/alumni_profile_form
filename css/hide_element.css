@@ -1,0 +1,16 @@
+.form-layout-default {
+	/* Remove the vrule.png as vertical separator */ 
+	background: transparent !important; 
+}
+
+#branding {
+	display: none;
+}
+
+form#alumni-profile-node-form .column-main {
+	width: 100%;
+}
+
+form#alumni-profile-node-form .column-side {
+	display: none;	
+}
